@@ -1,4 +1,4 @@
-package com.perpule.phonepay;
+package com.perpule.phonepe;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
